@@ -28,12 +28,12 @@ Aplicación para gestionar y dar seguimiento a los pacientes de una veterinaria.
 
 1. Aplicación para móvil
 
-![pacientes-veterinaria-desktop](public\assets\app-veterinaria-mobile.jpeg)
+![pacientes-veterinaria-desktop](./public/assets/app-veterinaria-mobile.jpeg)
 
 1. Aplicación para tablet
 
-![pacientes-veterinaria-desktop](public\assets\app-veterinaria-tablet.jpeg)
+![pacientes-veterinaria-desktop](./public/assets/app-veterinaria-tablet.jpeg)
 
 3. Aplicación para desktop
 
-![pacientes-veterinaria-desktop](public\assets\app-veterinaria-desktop.jpeg)
+![pacientes-veterinaria-desktop](./public/assets/app-veterinaria-desktop.jpeg)
